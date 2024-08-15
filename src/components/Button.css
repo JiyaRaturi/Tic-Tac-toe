@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'brush'; /* Choose a name for the font */
+    src: url('./Assets/Urban\ Storm.ttf') format('opentype'); /* Path to your font file */
+    font-weight: normal;
+    font-style: normal;
+  }
+.btn {
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 0.8em 1.3em 0.8em 0.9em;
+    color: white;
+    background: #ad5389;
+    background: linear-gradient(to right, #312a72, #302b63, #24243e);
+    border: none;
+    letter-spacing: 0.05em;
+    border-radius: 16px;
+    margin-top: -120px;
+  }
+  
+  .btn svg {
+    margin-right: 3px;
+    transform: rotate(30deg);
+    transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1);
+    font-family: brush;
+  }
+  
+  .btn span {
+    transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1);
+  }
+  
+  .btn:hover svg {
+    transform: translateX(5px) rotate(90deg);
+  }
+  
+  .btn:hover span {
+    transform: translateX(7px);
+  }
+  
