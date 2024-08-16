@@ -6,6 +6,8 @@ This is a modern implementation of the classic Tic-Tac-Toe game, built using Rea
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Game Screenshot](#Game-Screenshot)
+- [Live Link](#Live-Link)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -27,7 +29,8 @@ This is a modern implementation of the classic Tic-Tac-Toe game, built using Rea
  ![Game Screenshot](src/components/Assets/GameScreenshot%20(1).png)
  ![Game Screenshot](src/components/Assets/GameScreenshot%20(2).png)
  ![Game Screenshot](src/components/Assets/GameScreenshot%20(3).png)
-
+## Live Link
+- https://tic-tac-toe-alpha-smoky.vercel.app/
 ## Installation
 
 To run this game locally:
