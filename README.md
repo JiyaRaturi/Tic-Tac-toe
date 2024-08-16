@@ -23,7 +23,7 @@ This is a modern implementation of the classic Tic-Tac-Toe game, built using Rea
 
 - **React:** For building the user interface and managing the game logic.
 - **Tailwind CSS:** For styling the application with utility-first CSS classes, ensuring a responsive and sleek design.
- ## game Screenshot
+ ## Game Screenshot
  ![Game Screenshot](src/components/Assets/GameScreenshot%20(1).png)
  ![Game Screenshot](src/components/Assets/GameScreenshot%20(2).png)
  ![Game Screenshot](src/components/Assets/GameScreenshot%20(3).png)
