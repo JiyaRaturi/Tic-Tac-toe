@@ -80,6 +80,7 @@ const Game = () => {
         boxArr.map((e)=>{
             e.current.innerHTML = "";
         })
+        setCount(0);
     }
     return (
     <div className='wrapper'>
